@@ -1,0 +1,28 @@
+﻿@font-face {
+    font-family: 'ITC';
+    src: url('../Fonts/ITC.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mono';
+    src: url('../Fonts/Mono.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+.App{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+.login{
+    text-align: left;
+}
+h1, h5{
+    font-family: 'ITC';
+}

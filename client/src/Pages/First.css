@@ -1,0 +1,36 @@
+﻿.fon {
+    background-color: #fff066;
+}
+
+Form {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+
+.but {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-color: black;
+    border-color: black;
+}
+
+    .but:hover {
+        background-color: #282c34;
+        border-color: #282c34;
+    }
+
+.group {
+    margin: 0 auto;
+    margin-bottom:20px;
+}
+.air{
+    height:200px;
+}
+.air2 {
+    height: 30px;
+}
+.air3 {
+    height:450px;
+}

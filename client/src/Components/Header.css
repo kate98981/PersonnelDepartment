@@ -1,0 +1,26 @@
+.header{
+    background-color:#DFDFDF;
+    font-family: 'ITC';
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #D2272C;
+}
+.navbar-expand-md .navbar-nav .nav-link{
+    padding-right: 90px;
+}
+.text{
+    margin-top: 8px;
+}
+@font-face {
+    font-family: 'ITC';
+    src: url('../Fonts/ITC.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+.nametitle{
+    font-size: 25px;
+}
